@@ -1,0 +1,24 @@
+.one
+{
+    color: green;
+}
+#two
+{
+    background: red; width: 100%; text-align: center;padding: 5px 0;
+}
+#four
+{
+    background: green; width: 100%; text-align: center;padding: 200px 0;
+}
+#six
+{
+    background: blue; width: 50%; float: right; text-align: center;padding: 200px 0;
+}
+#eight
+{
+    background: red; width: 50%; text-align: center;padding: 200px 0;
+}
+#ten
+{
+    background: orange; width: 100%; text-align: center;padding: 100px 0
+}
